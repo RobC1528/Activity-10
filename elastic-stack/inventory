@@ -1,0 +1,6 @@
+[elasticsearch]
+192.168.56.17 ansible_user=rcatapang
+[kibana]
+192.168.56.13
+[logstash]
+192.168.56.14 
